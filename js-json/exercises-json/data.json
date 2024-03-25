@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-shirt",
+      "price": 25.99
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "price": 49.99
+    }
+  ],
+  "users": [
+    {
+      "id": 101,
+      "name": "John",
+      "email": "john@example.com"
+    },
+    {
+      "id": 102,
+      "name": "Mary",
+      "email": "mary@example.com"
+    }
+  ]
+}

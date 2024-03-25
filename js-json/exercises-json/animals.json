@@ -1,0 +1,22 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Lion",
+      "type": "Mammal",
+      "habitat": "Savanna"
+    },
+    {
+      "id": 2,
+      "name": "Penguin",
+      "type": "Bird",
+      "habitat": "South Pole"
+    },
+    {
+      "id": 3,
+      "name": "Snake",
+      "type": "Reptile",
+      "habitat": "Tropical Forest"
+    }
+  ]
+}
